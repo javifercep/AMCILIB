@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For TimerOne
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+AmciLib		                   KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin						   KEYWORD2
+LogMode		                   KEYWORD2
+SetPosition                    KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+SERIAL_MODE 				   LITERAL1
+PWM_MODE	 				   LITERAL1
+ANALOG_MODE					   LITERAL1
+MAX_POSITION				   LITERAL1
+MIN_POSITION				   LITERAL1
+
